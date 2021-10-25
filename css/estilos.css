@@ -1,0 +1,21 @@
+.espacamento{
+    margin-top: 20px;
+}
+.espacamento2{
+    margin-bottom: 20px;
+}
+.maginRigth{
+    float: right;
+    margin-left: 10px;
+}
+
+.colorRed{
+    color: red;
+}
+
+.boderTable{
+    border: 2px inset;
+}
+
+
+
